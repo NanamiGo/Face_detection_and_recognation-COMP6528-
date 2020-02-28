@@ -1,2 +1,2 @@
-# JavaPractice
-Some basic practice
+# Face detection and recognation
+
